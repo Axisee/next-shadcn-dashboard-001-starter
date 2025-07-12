@@ -1,0 +1,67 @@
+{
+  "navigation": {
+    "dashboard": "Dashboard",
+    "product": "Product",
+    "account": "Account",
+    "profile": "Profile",
+    "login": "Login",
+    "kanban": "Kanban",
+    "overview": "Overview"
+  },
+  "dashboard": {
+    "title": "Next Shadcn Dashboard Starter",
+    "description": "Basic dashboard with Next.js and Shadcn",
+    "overview": "Overview",
+    "recentSales": "Recent Sales",
+    "recentSalesDescription": "You made 265 sales this month.",
+    "totalRevenue": "Total Revenue",
+    "subscriptions": "Subscriptions",
+    "salesCount": "Sales",
+    "activeNow": "Active Now"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Error",
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "create": "Create",
+    "update": "Update",
+    "search": "Search",
+    "filter": "Filter",
+    "sort": "Sort",
+    "actions": "Actions",
+    "close": "Close",
+    "open": "Open",
+    "next": "Next",
+    "previous": "Previous",
+    "submit": "Submit",
+    "reset": "Reset"
+  },
+  "user": {
+    "profile": "Profile",
+    "settings": "Settings",
+    "billing": "Billing",
+    "notifications": "Notifications",
+    "logout": "Log out",
+    "signIn": "Sign in",
+    "signUp": "Sign up"
+  },
+  "company": {
+    "name": "Acme Inc",
+    "plan": "Enterprise"
+  },
+  "theme": {
+    "light": "Light",
+    "dark": "Dark",
+    "system": "System"
+  },
+  "language": {
+    "en": "English",
+    "es": "Spanish",
+    "fr": "French",
+    "de": "German",
+    "ja": "Japanese"
+  }
+}

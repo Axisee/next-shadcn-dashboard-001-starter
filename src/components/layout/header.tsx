@@ -7,6 +7,7 @@ import { UserNav } from './user-nav';
 import { ThemeSelector } from '../theme-selector';
 import { ModeToggle } from './ThemeToggle/theme-toggle';
 import CtaGithub from './cta-github';
+import { LanguageSwitcher } from '../language-switcher';
 
 export default function Header() {
   return (
@@ -22,6 +23,7 @@ export default function Header() {
         <div className='hidden md:flex'>
           <SearchInput />
         </div>
+        <LanguageSwitcher />
         <UserNav />
         <ModeToggle />
         <ThemeSelector />

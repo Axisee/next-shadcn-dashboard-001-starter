@@ -1,0 +1,67 @@
+{
+  "navigation": {
+    "dashboard": "Panel de Control",
+    "product": "Producto",
+    "account": "Cuenta",
+    "profile": "Perfil",
+    "login": "Iniciar Sesión",
+    "kanban": "Kanban",
+    "overview": "Resumen"
+  },
+  "dashboard": {
+    "title": "Panel de Control Next Shadcn",
+    "description": "Panel de control básico con Next.js y Shadcn",
+    "overview": "Resumen",
+    "recentSales": "Ventas Recientes",
+    "recentSalesDescription": "Realizaste 265 ventas este mes.",
+    "totalRevenue": "Ingresos Totales",
+    "subscriptions": "Suscripciones",
+    "salesCount": "Ventas",
+    "activeNow": "Activo Ahora"
+  },
+  "common": {
+    "loading": "Cargando...",
+    "error": "Error",
+    "save": "Guardar",
+    "cancel": "Cancelar",
+    "delete": "Eliminar",
+    "edit": "Editar",
+    "create": "Crear",
+    "update": "Actualizar",
+    "search": "Buscar",
+    "filter": "Filtrar",
+    "sort": "Ordenar",
+    "actions": "Acciones",
+    "close": "Cerrar",
+    "open": "Abrir",
+    "next": "Siguiente",
+    "previous": "Anterior",
+    "submit": "Enviar",
+    "reset": "Restablecer"
+  },
+  "user": {
+    "profile": "Perfil",
+    "settings": "Configuración",
+    "billing": "Facturación",
+    "notifications": "Notificaciones",
+    "logout": "Cerrar sesión",
+    "signIn": "Iniciar sesión",
+    "signUp": "Registrarse"
+  },
+  "company": {
+    "name": "Acme Inc",
+    "plan": "Empresa"
+  },
+  "theme": {
+    "light": "Claro",
+    "dark": "Oscuro",
+    "system": "Sistema"
+  },
+  "language": {
+    "en": "Inglés",
+    "es": "Español",
+    "fr": "Francés",
+    "de": "Alemán",
+    "ja": "Japonés"
+  }
+}

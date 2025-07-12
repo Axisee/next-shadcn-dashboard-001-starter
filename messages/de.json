@@ -1,0 +1,67 @@
+{
+  "navigation": {
+    "dashboard": "Dashboard",
+    "product": "Produkt",
+    "account": "Konto",
+    "profile": "Profil",
+    "login": "Anmelden",
+    "kanban": "Kanban",
+    "overview": "Übersicht"
+  },
+  "dashboard": {
+    "title": "Next Shadcn Dashboard Starter",
+    "description": "Basis-Dashboard mit Next.js und Shadcn",
+    "overview": "Übersicht",
+    "recentSales": "Aktuelle Verkäufe",
+    "recentSalesDescription": "Sie haben diesen Monat 265 Verkäufe getätigt.",
+    "totalRevenue": "Gesamtumsatz",
+    "subscriptions": "Abonnements",
+    "salesCount": "Verkäufe",
+    "activeNow": "Jetzt aktiv"
+  },
+  "common": {
+    "loading": "Laden...",
+    "error": "Fehler",
+    "save": "Speichern",
+    "cancel": "Abbrechen",
+    "delete": "Löschen",
+    "edit": "Bearbeiten",
+    "create": "Erstellen",
+    "update": "Aktualisieren",
+    "search": "Suchen",
+    "filter": "Filtern",
+    "sort": "Sortieren",
+    "actions": "Aktionen",
+    "close": "Schließen",
+    "open": "Öffnen",
+    "next": "Weiter",
+    "previous": "Zurück",
+    "submit": "Absenden",
+    "reset": "Zurücksetzen"
+  },
+  "user": {
+    "profile": "Profil",
+    "settings": "Einstellungen",
+    "billing": "Abrechnung",
+    "notifications": "Benachrichtigungen",
+    "logout": "Abmelden",
+    "signIn": "Anmelden",
+    "signUp": "Registrieren"
+  },
+  "company": {
+    "name": "Acme Inc",
+    "plan": "Unternehmen"
+  },
+  "theme": {
+    "light": "Hell",
+    "dark": "Dunkel",
+    "system": "System"
+  },
+  "language": {
+    "en": "Englisch",
+    "es": "Spanisch",
+    "fr": "Französisch",
+    "de": "Deutsch",
+    "ja": "Japanisch"
+  }
+}

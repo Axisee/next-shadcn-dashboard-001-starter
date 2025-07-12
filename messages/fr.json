@@ -1,0 +1,67 @@
+{
+  "navigation": {
+    "dashboard": "Tableau de bord",
+    "product": "Produit",
+    "account": "Compte",
+    "profile": "Profil",
+    "login": "Se connecter",
+    "kanban": "Kanban",
+    "overview": "Vue d'ensemble"
+  },
+  "dashboard": {
+    "title": "Tableau de bord Next Shadcn",
+    "description": "Tableau de bord de base avec Next.js et Shadcn",
+    "overview": "Vue d'ensemble",
+    "recentSales": "Ventes récentes",
+    "recentSalesDescription": "Vous avez fait 265 ventes ce mois-ci.",
+    "totalRevenue": "Chiffre d'affaires total",
+    "subscriptions": "Abonnements",
+    "salesCount": "Ventes",
+    "activeNow": "Actif maintenant"
+  },
+  "common": {
+    "loading": "Chargement...",
+    "error": "Erreur",
+    "save": "Enregistrer",
+    "cancel": "Annuler",
+    "delete": "Supprimer",
+    "edit": "Modifier",
+    "create": "Créer",
+    "update": "Mettre à jour",
+    "search": "Rechercher",
+    "filter": "Filtrer",
+    "sort": "Trier",
+    "actions": "Actions",
+    "close": "Fermer",
+    "open": "Ouvrir",
+    "next": "Suivant",
+    "previous": "Précédent",
+    "submit": "Soumettre",
+    "reset": "Réinitialiser"
+  },
+  "user": {
+    "profile": "Profil",
+    "settings": "Paramètres",
+    "billing": "Facturation",
+    "notifications": "Notifications",
+    "logout": "Se déconnecter",
+    "signIn": "Se connecter",
+    "signUp": "S'inscrire"
+  },
+  "company": {
+    "name": "Acme Inc",
+    "plan": "Entreprise"
+  },
+  "theme": {
+    "light": "Clair",
+    "dark": "Sombre",
+    "system": "Système"
+  },
+  "language": {
+    "en": "Anglais",
+    "es": "Espagnol",
+    "fr": "Français",
+    "de": "Allemand",
+    "ja": "Japonais"
+  }
+}
